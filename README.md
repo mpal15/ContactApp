@@ -12,12 +12,12 @@ Delete a contact, make a DELETE call to the above url. (Again this is a dummy ca
 # how to run the project
 1.first clone th repo
 
- git clone https://github.com/mpal15/ContactApp.git
+ ##git clone https://github.com/mpal15/ContactApp.git
  
 2.install the dependenies
 
-npm i
+##npm i
  
 3.start the project
 
- npm run
+ ##npm run
