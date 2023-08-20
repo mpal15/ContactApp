@@ -119,8 +119,8 @@ function App() {
               <td>{user.name}</td>
               <td>
                 <EditableText
-                  value={user.Phone}
-                  onChange={value => onChangeHandler(user.id, "email", value)}
+                  value={user.phone}
+                  onChange={value => onChangeHandler(user.id, "phone", value)}
                 />
               </td>
              
